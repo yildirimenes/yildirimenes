@@ -1,10 +1,10 @@
 ## Hi I'm Enes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Software engineer from Turkey. .
+Computer engineer from Turkey. .
 
 ### Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/oenes-yıldırım/) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oyildirim.enes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([www.linkedin.com/in/oenes-yıldırım/](https://www.linkedin.com/in/oenes-y%C4%B1ld%C4%B1r%C4%B1m/)) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oyildirim.enes@gmail.com)
 
 
 
