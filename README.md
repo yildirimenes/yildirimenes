@@ -19,6 +19,11 @@ Computer engineer from Turkey. .
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=yildirimenes&count_private=true&theme=tokyonight&hide=contribs,prs)
+<br>
+<p align="lefy"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yildirimenes&theme=dark&show_icons=true&locale=en&layout=compact" alt="yildirimenes" /></p>
+
+
+
 
 
 
