@@ -1,34 +1,53 @@
-## Hi I'm Enes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
-Computer engineer from Turkey. .
-
-### Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([www.linkedin.com/in/oenes-yıldırım/](https://www.linkedin.com/in/oenes-y%C4%B1ld%C4%B1r%C4%B1m/)) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oyildirim.enes@gmail.com)
+### 
 
 
-
-### Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,python,js,html,css,mysql,mongodb)](https://skillicons.dev)
-
-
-<br />
-
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=yildirimenes&count_private=true&theme=tokyonight&hide=contribs,prs)
+<h1 align="center"> Hi 👋 I'm Enes </h1>
 <br>
-<p align="lefy"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yildirimenes&theme=dark&show_icons=true&locale=en&layout=compact" alt="yildirimenes" /></p>
+
+<h2 align="left">📍 About Me</h2>
+
+👩‍💻 I am currently developing android applications with Kotlin and Java.
+<br>
+🙌🏻 I'm also interested in mobile development with Flutter.
+<br>
+<br>
+
+
+<div align="center">
+<a href="https://github.com/yildirimenes">  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimenes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yildirimenes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+
+</div>
+  
+<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=yildirimenes&theme=dracula"/>
+
+</div>
+  <br>
+  
+<h2>🛠  Tech Stack</h2>
+<div style="display: inline_block">
+<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
+<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> 
+<img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">  
+<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
 
 
 
 
+ 
+</div>
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+  ##  
+<div>   
+<a href="https://www.linkedin.com/in/oenes-y%C4%B1ld%C4%B1r%C4%B1m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@oyildirim.enes"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+</div>    
+  
+ ##
 
