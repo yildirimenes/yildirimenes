@@ -2,8 +2,12 @@
 
 
 <h1 align="center"> Hi 👋 I'm Enes </h1>
-<br>
-
+<br/>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yildirimenes&label=Profile%20views&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&style=flat" alt="EnesYildirim" height="25px" />
+</p>
+<h2></h2>
+<br/>
 <h2 align="left">📍 About Me</h2>
 
 👩‍💻 I am currently developing android applications with Kotlin and Java.
