@@ -1,58 +1,68 @@
-### 
+<h1 align="center">Hi 👋 I'm Enes</h1>
 
-
-<h1 align="center"> Hi 👋 I'm Enes </h1>
-<br/>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yildirimenes&label=Profile%20views&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&style=flat" alt="EnesYildirim" height="25px" />
+  <img src="https://komarev.com/ghpvc/?username=yildirimenes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<h2></h2>
-<br/>
-<h2 align="left">📍 About Me</h2>
 
-👩‍💻 I am currently developing android applications with Kotlin and Java.
-<br>
-🙌🏻 I'm also interested in mobile development with Flutter.
-<br>
-<br>
+---
 
+<h2>📌 About Me</h2>
+
+✨ I'm a passionate **Android Developer** with 2+ years of experience in building modern, scalable mobile applications.
+
+🚀 Specialized in **Kotlin**, **Jetpack Compose**, and clean architecture.
+
+📉 Interested in **Product Management**, user experience, and impactful mobile product development.
+
+🌍 Always exploring new technologies like **Kotlin Multiplatform** and **Flutter**.
+
+---
+
+<h2>📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-<a href="https://github.com/yildirimenes">  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimenes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yildirimenes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimenes&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yildirimenes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
-  
+
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=yildirimenes&theme=dracula"/>
-
-</div>
-  <br>
-  
-<h2>🛠  Tech Stack</h2>
-<div style="display: inline_block">
-<img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
-<img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg"> 
-<img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> 
-<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
-
-
-
-
- 
+  <img height="180em" src="https://streak-stats.demolab.com?user=yildirimenes&theme=radical" />
 </div>
 
-  ##  
-<div>   
-<a href="https://www.linkedin.com/in/oenes-yildirim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://medium.com/@oyildirim.enes"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+---
 
+<h2>🛠️ Tech Stack</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" width="40" alt="Jetpack Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="SQLite" />
+</div>
 
-</div>    
-  
- ##
+---
 
+<h2>🔗 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/oenes-yildirim/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@oyildirim.enes" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/yildirimenes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5531658926538502581" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="http://www.youtube.com/@ComposeCrafting" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
