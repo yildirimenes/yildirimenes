@@ -12,8 +12,6 @@
 
 🚀 Specialized in **Kotlin**, **Jetpack Compose**, and clean architecture.
 
-📉 Interested in **Product Management**, user experience, and impactful mobile product development.
-
 🌍 Always exploring new technologies like **Kotlin Multiplatform** and **Flutter**.
 
 ---
