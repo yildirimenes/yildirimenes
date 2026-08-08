@@ -12,7 +12,7 @@ I design and build mobile applications that ship to real users across every majo
 <br/>
 
 <img 
-  src="https://github.com/yildirimenes/yildirimenes/blob/main/cover.png"
+  src="https://raw.githubusercontent.com/yildirimenes/yildirimenes/main/github_profile.jpg"    
   align="right"
   height="380"
   width="380"
